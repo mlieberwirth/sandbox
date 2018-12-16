@@ -1,0 +1,32 @@
+Bohr-Profi Version 1.0
+
+© 2005 by PlanB. All rights reserved.
+
+
+This product includes software developed by the
+Computerorientierte Mathematik I + II course of 
+the TU-Berlin.
+Teached by Prof. Dr. Rolf H. Möhring, Martin Oellrich
+http://www.math.tu-berlin.de/CoMa/
+
+
+PlanB is:
+
+The GUI
+
+Michael Müller
+Nico Unmack
+Oleg Kulkov
+
+
+The LK-Algorithm
+
+Jonas Schweiger
+Marcel Lieberwirth
+Michael Braun
+
+The LB-Algorithm
+
+Tino Mengdehl
+Falk Rohnstock
+Felix Böckelmann

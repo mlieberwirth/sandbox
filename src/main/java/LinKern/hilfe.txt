@@ -1,0 +1,156 @@
+ÜBERSICHT
+=========
+
+1. Das Start-Fenster
+1.1. Bedienmöglichkeiten der Task-Leiste
+
+2. Der Editier-Modus
+2.1. Bedienmöglichkeiten der Task-Leiste
+2.2. Bedienmöglichkeiten der Button-Leiste
+2.3. Anzeigen
+
+3. Der Berechnungs-Modus
+3.1. Bedienmöglichkeiten der Task-Leiste
+3.2. Bedienmöglichkeiten der Button-Leiste
+3.3. Anzeigen
+
+4. Der sol-Modus
+4.1. Bedienmöglichkeiten der Task-Leiste
+4.2. Anzeigen
+
+5. Funktionen
+5.1. Feineinstellungen
+
+
+1. Das Start-Fenster
+
+1.1. Bedienmöglichkeiten der Task-Leiste
+
+--> Datei
+- Eine neue pnt-Datei erstellen (--> 2.)
+- Eine vorhandene pnt- oder sol-Datei einlesen (--> 3.)
+- Das Programm beenden
+
+--> Hilfe
+- Die Kurzanleitung lesen
+
+
+2. Der Editier-Modus
+
+2.1. Bedienmöglichkeiten der Task-Leiste
+
+--> Datei
+- Eine neue pnt-Datei erstellen
+- Eine vorhandene pnt- oder sol-Datei einlesen (--> 3.)
+- Eine geladene/neu erzeugte pnt-Datei speichern
+- Eine geladene/neu erzeugte pnt-Datei unter einem 
+  neuen Namen speichern
+- Das Programm beenden
+
+--> Bearbeiten
+- In den Berechnungs-Modus wechseln (--> 3.)
+
+--> Optionen
+- Eine Liste der bestehenden Punkte anzeigen lassen
+
+--> Hilfe
+- Die Kurzanleitung lesen
+
+2.2. Bedienmöglichkeiten der Button-Leiste
+
+--> Reset
+- Löscht alle Punkte aus der Oberfläche
+
+--> Schreibschutz
+- Man kann bei Aktivierung keine Punkte setzen löschen
+
+2.3. Anzeigen
+
+- Nummer und Koordinaten des zuletzt gesetzten/
+  gelöschten/(bei Schreibschutz) gewählten Punkt
+- Aktuelle Koordinaten der Maus
+
+
+3. Der Berechnungs-Modus
+
+3.1. Bedienmöglichkeiten der Task-Leiste
+
+--> Datei
+- Eine neue pnt-Datei erstellen (--> 2.)
+- Eine vorhandene pnt- oder sol-Datei einlesen (--> 3.)
+- Eine geladene/neu erzeugte pnt-Datei speichern
+- Eine geladene/neu erzeugte pnt-Datei unter einem 
+  neuen Namen speichern
+- Das Programm beenden
+
+--> Bearbeiten
+- In den Editier-Modus wechseln (--> 2.)
+
+--> Optionen
+- Eine Liste der bestehenden Punkte anzeigen lassen
+- Feineinstellungen vornehmen (--> 5.1.)
+
+--> Hilfe
+- Die Kurzanleitung lesen
+
+3.2. Bedienmöglichkeiten der Button-Leiste
+
+--> Start
+- Startet die Berechnung
+
+--> Stopp
+- Stoppt die Berechnung, falls sie noch nicht selber 
+  angehalten hat
+
+3.3. Anzeigen
+
+- Rechenzeit in Sekunden
+- Abbruchzeit (--> Optionen/Feineinstellungen)
+- Fortschritt der Berechnung als wachsender Balken
+- Güte der Lösung in Prozent
+- Untere Schranke
+- Aktuelle Weglänge
+
+
+4. Der sol-Modus
+
+4.1. Bedienmöglichkeiten der Task-Leiste
+
+--> Datei
+- Eine neue pnt-Datei erstellen (--> 2.)
+- Eine vorhandene pnt- oder sol-Datei einlesen
+- Das Programm beenden
+
+--> Optionen
+- Eine Liste der bestehenden Punkte anzeigen lassen
+
+--> Hilfe
+- Die Kurzanleitung lesen
+
+4.2. Anzeigen
+
+- Güte der Lösung in Prozent
+- Weglänge
+
+
+5. Funktionen
+
+5.1. Feineinstellungen
+
+--> Abbruchzeit setzen
+- bei keiner oder fehlerhafter Eingabe wird keine Zeit
+  gesetzt
+  
+--> Eistellung der Lösungsgenauigkeit
+- der Wert gibt an mit wie vielen verschiedenen 
+  Ausgangswerten der Algorithmus arbeitet
+- je höher der Wert, desto desto wahrscheinlicher ist 
+  eine bessere Lösung, aber es gibt eine längere Lauf-
+  zeit
+  
+--> Farben wählen
+- es können Farben für die Knoten und Kanten gesetzt 
+  werden
+- müssen für jeden Wechsel in den Berechnungs-Modus neu
+  gesetzt werden, sonst default-Werte
+- default: Knoten schwarz, Kanten rot
